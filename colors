@@ -11,3 +11,19 @@ background  #0e639c
 background-1  #007acc
 font-color  #2f76f1
 font-color-2  #3794ff
+font-color-3  #4fb8fe
+font-color-4  #9cdcfe
+
+--green
+font-color #b5cea8
+font-color-dark  #6a9955
+font-color-dark-2  #366435
+
+--yellow
+
+font-color #d7ba7d
+
+
+--orange
+font-color  #ce9178
+
