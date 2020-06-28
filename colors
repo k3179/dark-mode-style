@@ -1,4 +1,13 @@
-最底层     #1e1e1e
-底层			 #252525
-底层       #2d2d2d
+--black
+bottom     #1e1e1e
+bottom-1			 #252525
+bottom-2       #2d2d2d
 bar       #3c3c3c
+
+
+--blue
+
+background  #0e639c
+background-1  #007acc
+font-color  #2f76f1
+font-color-2  #3794ff
