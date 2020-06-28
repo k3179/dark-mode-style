@@ -2,13 +2,20 @@
 bottom     #1e1e1e
 bottom-1			 #252525
 bottom-2       #2d2d2d
-bar       #3c3c3c
+bar       #3c3c3c       --input background , window-bar 
+
+
+--gray
+color  #666
+color  #bbb
+color  #ccc
 
 
 --blue
 
 background  #0e639c
 background-1  #007acc
+background-dark  #094771
 font-color  #2f76f1
 font-color-2  #3794ff
 font-color-3  #4fb8fe
